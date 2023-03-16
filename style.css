@@ -1,0 +1,15 @@
+#camera {
+
+    border-style:dotted;
+    width: 350px;
+    height: 300px;
+    border-color: black;
+}
+
+body {
+
+    background-image: "bg1.jpg";
+    font-family: 'Dosis', sans-serif;
+font-family: 'Edu SA Beginner', cursive;
+font-family: 'Kanit', sans-serif;
+}
